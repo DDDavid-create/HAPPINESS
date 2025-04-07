@@ -77,6 +77,7 @@ a{
     background-color: #f5ca00;
     border: none;
     font-weight: bold;
+    border-radius: 2px;
 }
 
 /*SECTION 2*/
@@ -173,3 +174,45 @@ a{
     background-color: #000000;
     color: #ffffff;
 }
+
+/*SECTION 4*/
+.s4{
+    padding: 50px 40px;
+    display: grid;
+    justify-items: center;
+}
+
+.s4-card{
+    background-color: #e6e6e6;
+    border-radius: 3px;
+    padding: 20px 0px;
+    display: flex;
+    width: 100%;
+    box-shadow: 10px 15px 20px #00000059;
+}
+
+.s4-info{
+    padding: 0px 30px;
+}
+
+.s4-text{
+    width: 80%;
+}
+
+.s4-btn{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.s4-text h2{
+    color: #f5ca00;
+    font-size: 80px;
+}
+
+.s4-graph{
+    width: 80%;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
