@@ -1,5 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+/*HEADER*/
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: #f5ca00;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px;
+}
+
+.nav-bar{
+    width: 500px;
+}
+
+.nav-bar li{
+    align-content: center;
+}
+
+.nav-bar a{
+    color: #000000;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
 }
