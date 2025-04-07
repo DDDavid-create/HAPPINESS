@@ -129,3 +129,41 @@ a{
     width: 50%;
 }
 
+/*SECTION 3*/
+.s3{
+    background-color: #f5ca00;
+    padding: 60px 30px;
+    width: 100%;
+}
+
+.s3 h2{
+    text-transform: uppercase;
+    margin-left: 20px;
+    font-size: 80px;
+    line-height: 0.9;
+    width: 800px;
+}
+
+.s3-info{
+    padding: 10px;
+    display: flex;
+}
+
+.s3-text{
+    padding: 10px;
+    width: 35%;
+}
+
+.s3-text p{
+    width: 600px;
+    margin: 20px 0px;
+}
+
+
+.s3-img{
+    padding: 10px;
+}
+
+.s3-img img{
+    width: 900px;
+}
