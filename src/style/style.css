@@ -216,3 +216,22 @@ a{
     justify-content: flex-end;
 }
 
+/*SECTION 5*/
+.s5{
+    padding: 50px 80px;
+    display: grid;
+    justify-items: center;
+    background-color: #000000;
+}
+
+.s5 h2{
+    color: #f5ca00;
+    font-size: 40px;
+}
+
+.s5 p{
+    margin: 20px 0px;
+    text-align: center;
+    color: #ffffff;
+    width: 700px;
+}
