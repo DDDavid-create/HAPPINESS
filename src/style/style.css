@@ -78,3 +78,54 @@ a{
     border: none;
     font-weight: bold;
 }
+
+/*SECTION 2*/
+.s2{
+    background: linear-gradient(0deg, #f5ca00 50%, #ffffff 50%);
+    padding: 60px 100px;
+    display: grid;
+    justify-items: center;
+}
+
+.card-s2{
+    background-color: #e6e6e6;
+    width: 100%;
+    padding: 50px 40px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 10px 20px 0px #00000059;
+}
+
+.s2-text{
+    padding: 20px;
+    width: 50%;
+}
+
+.card-btn{
+    margin: 10px 0px;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+.s2-text h2{
+    color: #f5ca00;
+    font-size: 50px;
+    width: 330px;
+    line-height: 0.9;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.s2-text p{
+    width: 400px;
+    margin: 20px 0px;
+}
+
+.graphs{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
