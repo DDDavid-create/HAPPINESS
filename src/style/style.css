@@ -4,10 +4,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    line-height: 1.3;
 }
 
 h1{
     font-family: 'Bebas Neue', sans-serif;
+    font-weight: lighter;
 }
 
 /*HEADER*/
@@ -40,4 +42,39 @@ nav{
 
 a{
     text-decoration: none;
+}
+
+/*SECTION 1*/
+.s1{
+    padding: 60px 30px;
+    display: flex;
+    width: 100%;
+}
+
+.s1-img{
+    padding: 10px;
+}
+
+.s1-text{
+    padding: 50px;
+}
+
+.s1-text h1{
+    font-size: 100px;
+    width: 400px;
+    line-height: 0.9;
+}
+
+.s1-text p{
+    margin: 10px 0px;
+    width: 70%;
+}
+
+.read-more-btn{
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: #f5ca00;
+    border: none;
+    font-weight: bold;
 }
