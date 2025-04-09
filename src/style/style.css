@@ -355,6 +355,7 @@ input, textarea{
     font-size: 80px;
     color: #f5ca00;
     width: 600px;
+    line-height: 0.9;
 }
 
 .subs{
