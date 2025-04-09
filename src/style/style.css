@@ -292,3 +292,72 @@ a{
     width: 700px;
     height: 700px;
 }
+
+/*SECTION 8*/
+.s8{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 80px;
+}
+
+.s8-form{
+    width: 40%;
+    padding: 20px 30px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.form-1{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.name-surname{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form-2{
+    display: grid;
+}
+
+label{
+    text-transform: capitalize;
+}
+
+input, textarea{
+    background-color: transparent;
+    border: none;
+    border: solid 2px #ffffff;
+    border-radius: 3px;
+    margin: 10px 0px;
+}
+
+#name, #surname, #email, #password{
+    height: 30px;
+}
+
+#message{
+    height: 200px;
+    resize: vertical;
+}
+
+.s8-info{
+    align-content: center;
+    padding: 10px 30px;
+    width: 50%;
+}
+
+.s8-info h2{
+    font-size: 80px;
+    color: #f5ca00;
+    width: 600px;
+}
+
+.subs{
+    background-color: #000000;
+    color: #ffffff;
+}
