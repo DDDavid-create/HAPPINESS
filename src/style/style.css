@@ -361,3 +361,26 @@ input, textarea{
     background-color: #000000;
     color: #ffffff;
 }
+
+/*SECTION 9*/
+.s9{
+    background-color: #f5ca00;
+    padding: 50px 30px;
+    display: grid;
+    justify-items: center;
+}
+
+.s9 h2{
+    font-size: 60px;
+}
+
+.s9 p{
+    margin: 20px 0px;
+}
+
+.contact{
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: normal;
+    text-transform: capitalize;
+}
