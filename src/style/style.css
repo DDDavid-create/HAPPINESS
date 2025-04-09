@@ -385,3 +385,57 @@ input, textarea{
     font-weight: normal;
     text-transform: capitalize;
 }
+
+/*FOOTER*/
+footer{
+    background-color: #000000;
+    color: #f5ca00;
+}
+
+footer a{
+    text-decoration: none;
+    color: #f5ca00;
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+}
+
+.f1{
+    padding: 40px 30px;
+}
+
+.f2{
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.line{
+    background-color: #e6e6e6;
+    height: 1px;
+    margin: 0px 30px;
+}
+
+.f3{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.f3-webs{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    justify-content: space-around;
+}
+
+
+.sm img{
+    width: 20px;
+    height: 30px;
+}
