@@ -235,3 +235,29 @@ a{
     color: #ffffff;
     width: 700px;
 }
+
+/*SECTION 6*/
+.s6{
+    padding: 50px 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.s6-img{
+    width: 40%;
+    padding: 20px;
+}
+
+.s6-img img{
+    width: 100%;
+}
+
+.s6-info{
+    align-content: center;
+    padding: 10px 30px;
+    width: 30%;
+}
+
+.s6-info h2{
+    font-size: 70px;
+}
