@@ -471,4 +471,24 @@ li{
     .s1-text p{
         width: auto;
     }
+
+    /*SECTION 2*/
+    .card-s2{
+        display: grid;
+        justify-items: center;
+        justify-content: center;
+    }
+
+    .s2-text{
+        width: 100%;
+    }
+
+    .graphs{
+        width: 100%;
+    }
+
+    .graphs img{
+        width: 200px;
+        height: 200px;
+    }
 }
