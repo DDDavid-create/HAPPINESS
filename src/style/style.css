@@ -454,5 +454,21 @@ li{
 */
 
 @media (max-width: 1279px){
-    
+    /*SECTION 1*/
+    .s1-img img{
+        width: 500px;
+    }
+
+    .s1-text{
+        padding: 20px;
+    }
+
+    .s1-text h1{
+        font-size: 80px;
+        width: 100%;
+    }
+
+    .s1-text p{
+        width: auto;
+    }
 }
